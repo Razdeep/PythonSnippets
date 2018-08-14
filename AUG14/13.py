@@ -1,0 +1,1 @@
+# wap to check a triangle is equilateral, isosceles or scalene
