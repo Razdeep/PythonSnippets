@@ -1,1 +1,0 @@
-#wap to find the numbers which are divisible by
