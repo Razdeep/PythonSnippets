@@ -3,7 +3,13 @@
 # When would they be different? (Song is a string)
 import string
 song='Good Time'
-# print(string.split(string.join(song)))
+
 print(song.split())
-print(song.split())
-# @TODO: To be completed
+song[0].join(song[1])
+print(song)
+
+# METHOD II
+newSong=''
+for i in song:
+    newSong+=i
+print(newSong)
